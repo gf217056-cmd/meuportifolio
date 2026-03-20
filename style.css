@@ -1,1 +1,25 @@
-update style.css
+body {
+    background-color: =fofofo;
+    font-family: arial; sans-serif;
+    text-align: center;
+}
+
+
+hi {
+   color: blue;
+}
+
+
+p {
+   color: #333;
+   font-size: 18px;
+}
+
+
+ul {
+    list-style: none; /* remove bolinhas */
+    padding: e;
+}
+
+li {
+    background-color: white;
